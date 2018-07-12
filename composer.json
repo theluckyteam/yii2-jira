@@ -1,0 +1,12 @@
+{
+    "name": "luckyteam/yii2-php",
+    "authors": [
+        {
+            "name": "Ivan Mironov",
+            "email": "mironorange@gmail.com"
+        }
+    ],
+    "require": {
+        "luckyteam/jira-php": "dev-master"
+    }
+}
