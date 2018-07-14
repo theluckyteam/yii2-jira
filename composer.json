@@ -1,5 +1,5 @@
 {
-    "name": "luckyteam/yii2-php",
+    "name": "luckyteam/yii2-jira",
     "authors": [
         {
             "name": "Ivan Mironov",
@@ -8,5 +8,11 @@
     ],
     "require": {
         "luckyteam/jira-php": "dev-master"
+    },
+    "require-dev": {
+        "yiisoft/yii2": "2.0.15.1"
+    },
+    "autoload": {
+        "psr-4": {"LuckyTeam\\Yii2\\Jira\\": "src/yii2-jira"}
     }
 }
