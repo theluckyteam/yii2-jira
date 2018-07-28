@@ -1,4 +1,5 @@
 .idea
 /console
+/frontend
 /vendor
 jira.php

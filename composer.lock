@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ecd36a4b07d667e3260622f713cddec4",
-    "content-hash": "523a6e771d60da1b9e6ed90f7b8ccf24",
+    "hash": "1a760dac2e2364442fa56c64d73c4b2e",
+    "content-hash": "08675b5ff08a0a868dbccc8899690373",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -194,12 +194,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/theluckyteam/php-jira.git",
-                "reference": "9a6f0db24cac91768469aedc0e915168b87889f6"
+                "reference": "22a7641eab22357272f2d50d9a76db54bc65a80c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/theluckyteam/php-jira/zipball/9a6f0db24cac91768469aedc0e915168b87889f6",
-                "reference": "9a6f0db24cac91768469aedc0e915168b87889f6",
+                "url": "https://api.github.com/repos/theluckyteam/php-jira/zipball/22a7641eab22357272f2d50d9a76db54bc65a80c",
+                "reference": "22a7641eab22357272f2d50d9a76db54bc65a80c",
                 "shasum": ""
             },
             "require": {
@@ -221,7 +221,7 @@
                     "email": "mironorange@gmail.com"
                 }
             ],
-            "time": "2018-07-12 17:04:43"
+            "time": "2018-07-26 16:42:25"
         },
         {
             "name": "psr/http-message",
